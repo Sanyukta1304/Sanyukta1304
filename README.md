@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="assets/profile.png" alt="Sanyukta" width="150" height="150" style="border-radius:50%;">
-</p>
 
 <h1 align="center">Hi 👋, I'm Sanyukta!!!!!</h1>
 
@@ -29,4 +26,18 @@
 [![portfolio](https://img.shields.io/badge/portfolio-black?style=for-the-badge&logo=portfolio&logoColor=white)](https://sanyukta.vercel.app/)
 
 ---
+### My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanyukta1304&theme=default&fire=1e90ff&ring=4682b4&border=87ceeb&background=ffffff&currStreakLabel=000000" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanyukta1304&layout=compact&theme=light&hide_border=false&bg_color=ffffff&title_color=1e90ff&text_color=4682b4&card_width=400" />
+</p>
+
+
+
+
+
 
