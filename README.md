@@ -31,35 +31,17 @@
 
 # 📊 GitHub Stats:
 
-<table align="center">
-<tr>
-<td width="33%" align="center">
+![Stats Dark](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sanyukta1304&theme=dracula#gh-dark-mode-only)
+![Stats Light](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sanyukta1304&theme=default#gh-light-mode-only)
 
-![Stats Dark](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sanyukta1304&theme=dracula)#gh-dark-mode-only
-![Stats Light](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sanyukta1304&theme=default)#gh-light-mode-only
+![Languages Dark](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sanyukta1304&theme=dracula#gh-dark-mode-only)
+![Languages Light](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sanyukta1304&theme=default#gh-light-mode-only)
 
-</td>
-<td width="33%" align="center">
+![Streak Dark](https://streak-stats.demolab.com?user=Sanyukta1304&theme=dracula#gh-dark-mode-only)
+![Streak Light](https://streak-stats.demolab.com?user=Sanyukta1304&theme=default#gh-light-mode-only)
 
-![Languages Dark](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sanyukta1304&theme=dracula)#gh-dark-mode-only
-![Languages Light](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sanyukta1304&theme=default)#gh-light-mode-only
-
-</td>
-<td width="33%" align="center">
-
-![Streak Dark](https://streak-stats.demolab.com?user=Sanyukta1304&theme=dracula)#gh-dark-mode-only
-![Streak Light](https://streak-stats.demolab.com?user=Sanyukta1304&theme=default)#gh-light-mode-only
-
-</td>
-</tr>
-</table>
-
-<p align="center">
-
-![Graph Dark](https://github-readme-activity-graph.vercel.app/graph?username=Sanyukta1304&theme=dracula)#gh-dark-mode-only
-![Graph Light](https://github-readme-activity-graph.vercel.app/graph?username=Sanyukta1304&theme=github-light)#gh-light-mode-only
-
-</p>
+![Graph Dark](https://github-readme-activity-graph.vercel.app/graph?username=Sanyukta1304&theme=dracula#gh-dark-mode-only)
+![Graph Light](https://github-readme-activity-graph.vercel.app/graph?username=Sanyukta1304&theme=github-light#gh-light-mode-only)
 
 
 
