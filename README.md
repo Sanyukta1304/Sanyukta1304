@@ -31,18 +31,17 @@
 
 # 📊 GitHub Stats:
 
-![Stats Dark](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sanyukta1304&theme=dracula#gh-dark-mode-only)
-![Stats Light](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sanyukta1304&theme=default#gh-light-mode-only)
+<p align="center">
 
-![Languages Dark](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sanyukta1304&theme=dracula#gh-dark-mode-only)
-![Languages Light](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sanyukta1304&theme=default#gh-light-mode-only)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sanyukta1304&theme=default" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sanyukta1304&theme=default" />
+<img src="https://streak-stats.demolab.com?user=Sanyukta1304&theme=default" />
 
-![Streak Dark](https://streak-stats.demolab.com?user=Sanyukta1304&theme=dracula#gh-dark-mode-only)
-![Streak Light](https://streak-stats.demolab.com?user=Sanyukta1304&theme=default#gh-light-mode-only)
+</p>
 
-![Graph Dark](https://github-readme-activity-graph.vercel.app/graph?username=Sanyukta1304&theme=dracula#gh-dark-mode-only)
-![Graph Light](https://github-readme-activity-graph.vercel.app/graph?username=Sanyukta1304&theme=github-light#gh-light-mode-only)
+<p align="center">
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanyukta1304&theme=github-light" />
 
-
+</p>
 
