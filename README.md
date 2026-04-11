@@ -41,7 +41,7 @@
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanyukta1304&theme=github-light" />
+
 
 </p>
 
